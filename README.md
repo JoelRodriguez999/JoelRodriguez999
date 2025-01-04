@@ -1,16 +1,13 @@
-## Hi there 👋
+Joel/README.md
 
-<!--
-**JoelRodriguez999/JoelRodriguez999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Joel 👋Un Ingeniero de Sistemas especializado en telecomunicaciones, con experiencia en Cloud y DevOps.
 
-Here are some ideas to get you started:
+⚙️ Tecnologías que uso diariamente:  Python, SQL, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Comunidades donde soy activo:  Cloud Computing, DevOps, Networking
+
+📜 Certificaciones:  AWS Certified Cloud Practitioner, Fortinet NSE1 y NSE2, Fundamentos de Redes de Cisco (v6 y v7), Gerencia de proyectos
+
+🎓 Educación adicional: Infraestructura como Código (IaC), Automatización de despliegues, Herramientas de CI/CD
+
+💬 Contáctame sobre: Cloud Computing, DevOps, Gerencia de Proyectos, Telecomunicaciones
